@@ -1,3 +1,3 @@
-# angular-xl5rug
+# Angular Test
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xl5rug)
